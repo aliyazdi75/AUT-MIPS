@@ -1,0 +1,83 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Reading design: alu.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\alu.vhd" into library work
+Parsing package <pkg>.
+Parsing package body <pkg>.
+Parsing entity <alu>.
+Parsing architecture <Behavioral> of entity <alu>.
+WARNING:HDLCompiler:946 - "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\alu.vhd" Line 97: Actual for formal port b is neither a static name nor a globally static expression
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\reg_q.vhd" into library work
+Parsing entity <reg_q>.
+Parsing architecture <Behavioral> of entity <reg_q>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\reg_pc_ar.vhd" into library work
+Parsing entity <reg_pc_ar>.
+Parsing architecture <Behavioral> of entity <reg_pc_ar>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\reg_dr_ac_tr.vhd" into library work
+Parsing entity <reg_dr_ac_tr>.
+Parsing architecture <Behavioral> of entity <reg_dr_ac_tr>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\reg_dr.vhd" into library work
+Parsing entity <reg_dr>.
+Parsing architecture <Behavioral> of entity <reg_dr>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\reg_a.vhd" into library work
+Parsing entity <reg_a>.
+Parsing architecture <Behavioral> of entity <reg_a>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\pc_controller.vhd" into library work
+Parsing entity <pc_controller>.
+Parsing architecture <Behavioral> of entity <pc_controller>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\outr.vhd" into library work
+Parsing entity <outr>.
+Parsing architecture <Behavioral> of entity <outr>.
+Parsing VHDL file "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\multiply.vhd" into library work
+Parsing entity <multiply>.
+Parsing architecture <Behavioral> of entity <multiply>.
+WARNING:HDLCompiler:439 - "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\multiply.vhd" Line 111: Formal port product_lsb of mode inout cannot be associated with actual port product_lsb of mode out
+ERROR:HDLCompiler:101 - "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\multiply.vhd" Line 111: product_lsb with mode 'out' cannot be read
+ERROR:HDLCompiler:854 - "C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\multiply.vhd" Line 44: Unit <behavioral> ignored due to previous errors.
+VHDL file C:\Users\Ali Yazdi\Desktop\Ali Yazdi\pc\multiply.vhd ignored due to errors
+--> 
+
+Total memory usage is 271028 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

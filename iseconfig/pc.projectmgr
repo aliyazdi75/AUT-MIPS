@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="pc" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/adder - aliFullAdder - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/mul - multiply - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/mul - multiply - Behavioral/myfa - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/mul - multiply - Behavioral/myreg_a - reg_a - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/mul - multiply - Behavioral/myreg_q - reg_q - Behavioral</ClosedNode>
+         <ClosedNode>/alu - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd/sub - aliFullAdder - Behavioral</ClosedNode>
+         <ClosedNode>/comprator16Bits - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|comprator16Bits.vhd/comprate - compratorNBits - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral/adder - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral/mul - multiply - Behavioral/myfa - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral/mul - multiply - Behavioral/myreg_a - reg_a - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral/mul - multiply - Behavioral/myreg_q - reg_q - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/myalu - alu - Behavioral/sub - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd/pkg</ClosedNode>
+         <ClosedNode>/multiply - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|multiply.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>datapath - Behavioral (C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/datapath.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>datapath - Behavioral (C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/datapath.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000016e000000040101000100000000000000000000000064ffffffff0000008100000000000000040000006a00000001000000000000004400000001000000000000006600000001000000000000005a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ali4BFA.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000064000000010001000100000000000000000000000064ffffffff000000810000000000000001000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>multiply.vhd</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/datapath - Behavioral C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|datapath.vhd</ClosedNode>
+         <ClosedNode>/pkg C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|aliM8.vhd</ClosedNode>
+         <ClosedNode>/pkg C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|alu.vhd</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/adder - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/cmp - comprator16Bits - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/mul - multiply - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/mul - multiply - Behavioral/myfa - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/mul - multiply - Behavioral/myreg_a - reg_a - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/mul - multiply - Behavioral/myreg_q - reg_q - Behavioral</ClosedNode>
+         <ClosedNode>/ptb - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd/uut - datapath - Behavioral/myalu - alu - Behavioral/sub - ali16BFA - Behavioral</ClosedNode>
+         <ClosedNode>/testbench - behavior C:|Users|Ali Yazdi|Desktop|Ali Yazdi|pc|ptb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>myar - reg_pc_ar - Behavioral (C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_pc_ar.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a2000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a20000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>myar - reg_pc_ar - Behavioral (C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_pc_ar.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000148000000010000000100000000000000000000000064ffffffff000000810000000000000001000001480000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+</Project>

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb_isim_beh.exe" -prj "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb_beh.prj" "work.ptb" 

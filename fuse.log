@@ -1,0 +1,68 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb_isim_beh.exe -prj C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb_beh.prj work.ptb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/alu.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/alu.vhd" Line 115: Actual for formal port b is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_q.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_pc_ar.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_dr_ac_tr.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_dr.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/reg_a.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/pc_controller.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/outr.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/multiply.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/memory.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ir.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/datapath.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/counter5B.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/counter.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/controller.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/compratorNBits.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/comprator1Bit.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/comprator16Bits.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/aliM8.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/aliHalfAdder.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/aliFullAdder.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/aliDFF.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ali4BFA.vhd" into library work
+Parsing VHDL file "C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ali16BFA.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package pkg
+Compiling package numeric_std
+Compiling architecture behavioral of entity reg_pc_ar [reg_pc_ar_default]
+Compiling architecture behavioral of entity reg_dr [reg_dr_default]
+Compiling architecture behavioral of entity reg_dr_ac_tr [reg_dr_ac_tr_default]
+Compiling architecture behavioral of entity ir [ir_default]
+Compiling architecture behavioral of entity outr [outr_default]
+Compiling architecture behavioral of entity aliDFF [alidff_default]
+Compiling architecture behavioral of entity reg_a [reg_a_default]
+Compiling architecture behavioral of entity aliHalfAdder [alihalfadder_default]
+Compiling architecture behavioral of entity aliFullAdder [alifulladder_default]
+Compiling architecture behavioral of entity ali4BFA [ali4bfa_default]
+Compiling architecture behavioral of entity ali16BFA [ali16bfa_default]
+Compiling architecture behavioral of entity reg_q [reg_q_default]
+Compiling architecture behavioral of entity counter [counter_default]
+Compiling architecture behavioral of entity controller [controller_default]
+Compiling architecture behavioral of entity multiply [multiply_default]
+Compiling architecture behavioral of entity aliM8 [alim8_default]
+Compiling architecture behavioral of entity comprator1Bit [comprator1bit_default]
+Compiling architecture behavioral of entity compratorNBits [\compratorNBits(16)\]
+Compiling architecture behavioral of entity comprator16Bits [comprator16bits_default]
+Compiling architecture behavioral of entity alu [alu_default]
+Compiling architecture behavioral of entity counter5B [counter5b_default]
+Compiling architecture behavioral of entity pc_controller [pc_controller_default]
+Compiling architecture behavioral of entity memory [\memory(1024)\]
+Compiling architecture behavioral of entity datapath [datapath_default]
+Compiling architecture behavior of entity ptb
+Time Resolution for simulation is 1ps.
+Waiting for 18 sub-compilation(s) to finish...
+Compiled 53 VHDL Units
+Built simulation executable C:/Users/Ali Yazdi/Desktop/Ali Yazdi/pc/ptb_isim_beh.exe
+Fuse Memory Usage: 36820 KB
+Fuse CPU Usage: 1156 ms

@@ -1,0 +1,28 @@
+Command line:
+   ptb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  21189
+
+Sat Jun 10 18:17:25 2017
+
+
+ Elaboration Time: 0.859375 sec
+
+ Current Memory Usage: 1367.36 Meg
+
+ Total Signals          : 1744
+ Total Nets             : 1208
+ Total Signal Drivers   : 540
+ Total Blocks           : 332
+ Total Primitive Blocks : 193
+ Total Processes        : 490
+ Total Traceable Variables  : 62
+ Total Scalar Nets and Variables : 1740
+
+ Total Simulation Time: 1.84375 sec
+
+ Current Memory Usage: 738.181 Meg
+
+Sat Jun 10 18:36:47 2017
+
